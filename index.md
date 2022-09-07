@@ -6,4 +6,4 @@ Found something with a Lowry-Findley tag? Please return it - we'd love to have i
 
 Tell us via Twitter: [@ejfdr](https://twitter.com/ejfdr/)
 
-Thanks!
+Thank you!
