@@ -4,6 +4,6 @@
 
 Please return it - we'd love to have it back.
 
-Tell us via Twitter: [@ejfdr](https://twitter.com/ejfdr/)
+Tell us via Twitter ([@ejfdr](https://twitter.com/ejfdr/)) or Mastodon ([@ejfdr@fosstodon.org](@ejfdr@fosstodon.org)).
 
 Thank you!
